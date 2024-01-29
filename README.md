@@ -1,6 +1,6 @@
 ## Neo-SciKit-Learn
 
-[Chinese Version](https://github.com/sounghaohao/neo-scikit-learn/README-Chinese.md)
+[Chinese Version](https://github.com/sounghaohao/neo-scikit-learn/blob/main/README-Chinese.md)
 
 scikit-learn is a great project. It implements plenty of machine learning algorithms 
 such as supervised learning, unsupervised learning, model selection and evaluation, data set transformations, and so on.
